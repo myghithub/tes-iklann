@@ -1,0 +1,23 @@
+{
+  "pc": "com.ted.guide",
+  "version_app":    "1.0",
+  "link_new_app":   "null",
+  "base_url_blog":  "https://www.googleapis.com/blogger/v3/blogs/",
+  "api_key":        "AIzaSyCP8Y_WndaEPrZXBEuGlulcKMxyOYuDJLM",
+  "id_blogger": "3759162441575353642",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "banner": "",
+      "inter":  "",
+      "native": ""
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "652f9d37f26f8765",
+      "inter": "c1e6ff1f69f58a6d",
+      "mrec": "4bcab4f0f4047c94"
+    }
+  ]
+}
